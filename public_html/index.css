@@ -1,0 +1,26 @@
+body { 
+  background-color: lightblue;
+}       
+
+h1 { 
+  color: navy;
+  margin-left: 50px;
+}
+
+p { 
+   color: hotpink;
+   font-family: "Copperplate";
+ }
+
+a { 
+   color: green;
+   font-family: "Monaco";
+ }
+
+a:hover { 
+   color: red;
+ }
+
+img { 
+   border: 15px solid #555;
+ }
